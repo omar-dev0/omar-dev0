@@ -1,19 +1,3 @@
-# **Hi there! 👋 I'm Omar Osama**  
-### _Flutter Developer_
-<div align="center">
-  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="200" alt="cat-with-glasses-animation">
-</div>
-
----
-
-## **🚀 About Me**  
-- 🌱 I’m currently a Flutter mentor at Route Academy.
-- 🧑‍💻 I enjoy solving problems with code and crafting pixel-perfect UIs.  
-- 🎯 My goal is to contribute to impactful open-source projects.  
-- 📫 Reach me at **oo143043@gmail.com**.
-
----
-
 ## **🛠️ Tech Stack**  
 
 <div align="center">
@@ -45,25 +29,4 @@
     ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
     ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
   </p>
-</div>
-
----
-
-## **📈 GitHub Stats**  
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omar-dev0&show_icons=true&theme=radical" width="400" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=omar-dev0&theme=radical&hide_border=true" width="400" alt="GitHub Streak">
-</div>
-
----
-
-## **🌐 Let's Connect**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-osama-dev99)  
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" alt="coding-animation">
-  <p>Happy Coding! 🚀</p>
 </div>
