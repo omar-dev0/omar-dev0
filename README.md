@@ -1,5 +1,5 @@
-# **Hi there! 👋 I'm Omar Osama **  
-### _Flutter Developer 
+# **Hi there! 👋 I'm Omar Osama**  
+### _Flutter Developer_
 <div align="center">
   <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="200" alt="cat-with-glasses-animation">
 </div>
@@ -7,7 +7,7 @@
 ---
 
 ## **🚀 About Me**  
-- 🌱 I’m currently Flutter mentor at Route Academy
+- 🌱 I’m currently a Flutter mentor at Route Academy.
 - 🧑‍💻 I enjoy solving problems with code and crafting pixel-perfect UIs.  
 - 🎯 My goal is to contribute to impactful open-source projects.  
 - 📫 Reach me at **oo143043@gmail.com**.
@@ -17,7 +17,10 @@
 ## **🛠️ Tech Stack**  
 
 ### **Languages**  
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)    
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)    
 
 ### **Frameworks & Libraries**  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
@@ -28,7 +31,6 @@
 ![Hive](https://img.shields.io/badge/Hive-FFCA28?style=for-the-badge&logo=hive&logoColor=black)  
 ![Flutter Lottie](https://img.shields.io/badge/Lottie-0075C2?style=for-the-badge&logo=flutter&logoColor=white)  
 ![Material Design](https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=material-design&logoColor=white)  
- 
 
 ### **Tools**  
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)  
@@ -50,6 +52,7 @@
 
 ## **🌐 Let's Connect**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-osama-dev99)  
+
 ---
 
 <div align="center">
