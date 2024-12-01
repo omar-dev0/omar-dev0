@@ -1,7 +1,7 @@
 # **Hi there! 👋 I'm Omar Osama **  
 ### _Flutter Developer 
 <div align="center">
-  <img src="https://giphy.com/gifs/computer-cat-wearing-glasses-VbnUQpnihPSIgIXuZv" width="200" alt="hello-animation">
+  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="200" alt="cat-with-glasses-animation">
 </div>
 
 ---
